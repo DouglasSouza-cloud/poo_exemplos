@@ -3,7 +3,7 @@
 # POR ACASO É POSSÍVEL ALTERAR ESSE VALOR DE QUALQUER FORMA,
 # OU EM QUALQUER PARTE DO SISTEMA?
 
-class contabancaria():
+class contabancaria:
 
     def __init__ (self, titular, saldo):
         self.titular = titular
